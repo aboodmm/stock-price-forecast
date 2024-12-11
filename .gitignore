@@ -1,3 +1,6 @@
+## mystuff
+NVDA_clean.csv
+
 *.bundle.*
 lib/
 node_modules/
